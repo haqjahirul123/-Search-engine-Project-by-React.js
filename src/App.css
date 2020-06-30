@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+  background: url('./book2.jpg');
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  overflow: hidden;
 }
 
 .App-logo {
@@ -36,3 +41,12 @@
     transform: rotate(360deg);
   }
 }
+
+.h1{
+text-align: center;
+}
+
+body{
+  background-color: aqua;
+}
+
